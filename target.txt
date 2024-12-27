@@ -1,0 +1,9 @@
+# yg belum selesai
+
+- tutorial vue pinia sama vue composition di channel cara fajar
+
+# yg mau di pelajari
+
+- tutorial laravel 11 di channel cara fajar
+- algoritma pemrograman studi kasus dengan python di channel auto didak
+- memperdalam lagi mysql join relationship di channel programmer zaman now
