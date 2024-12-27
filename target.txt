@@ -1,10 +1,11 @@
 # yg belum selesai
 
 - tutorial vue pinia sama vue composition api di channel cara fajar
+- memperdalam eloquent relationship laravel (dengan cara buat project yg datanya itu banyak dan saling berelasi)
 
 # yg mau di pelajari
 
 - tutorial laravel 11 di channel cara fajar
 - algoritma pemrograman studi kasus dengan python di channel auto didak
 - memperdalam lagi mysql join relationship di channel programmer zaman now
-
+- memperdalam cara buat api dengan laravel sekalian cara consume nya dengan javascript
